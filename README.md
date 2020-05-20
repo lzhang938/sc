@@ -1,0 +1,2 @@
+# sc
+Scala Project
